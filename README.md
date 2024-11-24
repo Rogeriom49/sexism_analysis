@@ -15,6 +15,7 @@ Criar um modelo preditivo que detecte e classifique automaticamente textos sexis
 ├── datasets/                                  # Datasets utilizados para análise  
 ├── sexism_analysis_lstm.ipynb/                # Modelo LSTM
 ├── sexism_analysis_randomforest.ipynb/        # Modelo RandomForestClassifier
+├── sexism_analysis_nltk.ipynb/                # Modelo MultinomialNB
 └── README.md                                  # Documentação do projeto  
 ```
 
@@ -23,10 +24,11 @@ Os dados utilizados são provenientes de [https://www.kaggle.com/datasets/aadyas
 
 ## 📈 Resultados  
 Os modelos desenvolvidos obtiveram os seguintes resultados:  
-| Modelo       | Acurácia | Precisão | Recall | F1-score |  
-|--------------|----------|----------|--------|----------|  
-| RandomForest | 83%      | 83%      | 98%    | 90%      |  
-| LSTM         | 80%      | 88%      | 87%    | 87%      |  
+| Modelo        | Acurácia | Precisão | Recall | F1-score |  
+|---------------|----------|----------|--------|----------|  
+| RandomForest  | 83%      | 83%      | 98%    | 90%      |  
+| LSTM          | 80%      | 88%      | 87%    | 87%      |  
+| MultinomialNB | 80%      | 84%      | 90%    | 87%      |
 
 ## 🔧 Tecnologias Utilizadas  
 - **Linguagem**: Python  
