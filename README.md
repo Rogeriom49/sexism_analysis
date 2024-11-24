@@ -41,10 +41,3 @@ Os modelos desenvolvidos obtiveram os seguintes resultados:
 
 ## 🤝 Contribuições  
 Contribuições são bem-vindas! Para contribuir, abra uma *issue* ou envie um *pull request*.  
-
-## 📝 Licença  
-Este projeto está licenciado sob a [Licença MIT](LICENSE).  
-
----
-
-Se precisar de ajuda para personalizar ou expandir, é só avisar! 😊
