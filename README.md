@@ -15,6 +15,7 @@ Criar um modelo preditivo que detecte e classifique automaticamente textos sexis
 ├── datasets/                                  # Datasets utilizados para análise  
 ├── sexism_analysis_lstm.ipynb/                # Modelo LSTM
 ├── sexism_analysis_randomforest.ipynb/        # Modelo RandomForestClassifier
+├── sexism_analysis_nltk.ipynb/                # Modelo MultinomialNB
 └── README.md                                  # Documentação do projeto  
 ```
 
